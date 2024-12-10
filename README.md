@@ -4,5 +4,7 @@
 
 #### Предмет: Обработка и генерация изображений
 
-#### HW1: (todo make and insert link)
+#### HW1: hw1_human_unet branch
+
+#### HW2: work in progress..
 
