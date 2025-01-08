@@ -15,12 +15,15 @@
 ![image](https://github.com/user-attachments/assets/9dd16290-75af-4411-b43a-968795e2728a)
 
 Примеры предсказаний:
+
 ![image](https://github.com/user-attachments/assets/5a529973-f0f4-4542-8bf1-75c9390e8e7a)
 
 Для подбора трешхолда был использован тот же MSE, что и для обучения, с той лишь разницей, что параметр reduction был заменен на 'sum' вместо 'mean', чтобы данные было проще отделить:
+
 ![image](https://github.com/user-attachments/assets/150c0d5b-b841-44c1-a4eb-82b7b0ad5baf)
 
 В итоге был выбран трешхолд 100, посчитаны метрики на тестовом сете:
+
 ![image](https://github.com/user-attachments/assets/1727116b-1850-426b-bf8c-916aa8febc84)
 
 Итоговые метрики (на данный момент): precision: 0.5904	recall: 0.7519	f1 0.6615
