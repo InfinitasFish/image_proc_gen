@@ -27,6 +27,7 @@
 ![image](https://github.com/user-attachments/assets/c2c92709-d5dd-4833-87e5-64d12995c614)
 
 В итоге был выбран трешхолд 0.007, посчитаны метрики на тестовом сете: F1 0.21, TPR 0.779, TNR 0.803
+
 ![image](https://github.com/user-attachments/assets/9065313f-316e-498e-bb27-d391d07b3df2)
 
 
