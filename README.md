@@ -12,6 +12,7 @@
 
 #### Обучение
 Модель обучалась 25 эпох, MSE loss, с аугментациями RandomHorizontalFlip(0.3) и RandomVerticalFlip(0.3), а также повышенной контрастностью изображений:
+
 ![image](https://github.com/user-attachments/assets/74ba740a-6cdc-457d-ae71-44ac0dc43b0e)
 
 ![image](https://github.com/user-attachments/assets/553daceb-9193-4a34-89f9-91dc877786ae)
