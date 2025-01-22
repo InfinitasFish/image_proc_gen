@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0075865a-a11c-4331-b140-be417da0c348)# image_proc_gen
+# image_proc_gen
 
 #### ФИО: Шишаев Вячеслав Алексеевич
 
