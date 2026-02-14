@@ -4,7 +4,5 @@
 
 #### Предмет: Обработка и генерация изображений
 
-#### HW1: hw1_human_unet branch
-
-#### HW2: work in progress..
+- branches, bro
 
